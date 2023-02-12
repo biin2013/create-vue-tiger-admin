@@ -10,7 +10,9 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "@biin2013/vue-tiger-service-provider": "^1.0.12",
+    "@biin2013/storage": "^1.0.0",
+    "@biin2013/vue-icon": "^1.0.1",
+    "@biin2013/vue-service-provider": "^1.0.0",
     "axios": "^1.2.1",
     "element-plus": "^2.2.27",
     "lodash": "^4.17.21",

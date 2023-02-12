@@ -1,4 +1,4 @@
-import { getLocalStorage, setLocalStorage } from '@/storage/local/localStorage';
+import { getLocalStorage, setLocalStorage } from '@biin2013/storage';
 import { defineStore } from 'pinia';
 import { ref } from 'vue';
 import { useI18n } from 'vue-i18n';
